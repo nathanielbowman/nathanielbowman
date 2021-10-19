@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @nathanielbowman
-I’m interested in music and development!
-
+A proud developer for Lightfeather 🪶
 
 <!---
 nathanielbowman/nathanielbowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
