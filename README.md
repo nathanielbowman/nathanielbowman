@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @nathanielbowman
-- 👀 I’m interested in music and development!
+I’m interested in music and development!
 
 
 <!---
