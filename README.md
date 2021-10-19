@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @nathanielbowman
-A proud developer for Lightfeather 🪶
+
+Entry-level software engineer for Lightfeather 🪶
 
 <!---
 nathanielbowman/nathanielbowman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
