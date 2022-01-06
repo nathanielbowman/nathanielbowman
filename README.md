@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @nathanielbowman
+# 👋 Hi, I’m @nate-lightfeather
 
 Entry-level software engineer for Lightfeather 🪶
 
